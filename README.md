@@ -49,7 +49,7 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<p align="flex-start">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eric-codecrypt&show_icons=true&theme=radical&hide_title=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-codecrypt&layout=compact&theme=radical"/>
 </p>

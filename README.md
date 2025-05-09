@@ -61,7 +61,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Eric-codecrypt&theme=dracula&margin-w=15&no-bg=true&no-frame=true"/>
 </p>
 
----
+-------------
 
 ### Meu Ultimo Projeto: Projeto-de-vida
 

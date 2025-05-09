@@ -2,13 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Olá%2C+eu+sou+o+Eric!;Full+Stack+Web+Developer+apaixonado!;Transformando+ideias+em+soluções+digitais" alt="Typing SVG">
 </p>
 
-<img src="https://media.giphy.com/media/FeVg8ViEczcxG/giphy.gif" align="right" width="180" style="pointer-events: none; opacity: 0.6;"/>
+
 
 ## 👋 Sobre mim
 
 🎯 **Full Stack Web Developer** apaixonado por transformar ideias em soluções digitais funcionais e impactantes.  
 💻 Trabalho com tecnologias modernas do **frontend ao backend**, com foco em **performance**, **acessibilidade** e **boas práticas de código**.
-
 ---
 
 ## 🚀 Tech Stack
@@ -93,8 +92,4 @@ Sistema dinâmico com backend personalizado
 
 <p align="center">
   🔗 <b>Sinta-se à vontade para explorar meus repositórios e me chamar para colaborações!</b>  
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/IpSc0bp7LmGC4/giphy.gif" width="200">
 </p>

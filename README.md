@@ -94,6 +94,5 @@ Sistema dinâmico com backend personalizado
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/U1VXtZ4Zyb8bm/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/BzyTuYCmvSORqs1ABM/giphy.gif" width="200">
 </p>
-

@@ -61,8 +61,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Eric-codecrypt&theme=dracula&margin-w=15&no-bg=true&no-frame=true"/>
 </p>
 
+---
+
 ### Meu Ultimo Projeto: Projeto-de-vida
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <p align="center">
   <a href="https://github.com/Eric-codecrypt">
     <img src="https://img.shields.io/github/last-commit/Eric-codecrypt/Projeto-de-vida?style=for-the-badge&logo=github&logoColor=white" alt="Último commit"/>

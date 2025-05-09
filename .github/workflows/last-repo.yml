@@ -1,0 +1,39 @@
+name: Last Modified Repository
+
+on:
+  push:
+    branches:
+      - main  # Ação será disparada quando algo for enviado para a branch 'main'
+    paths:
+      - '**/*'  # Ação será disparada para qualquer arquivo alterado no repositório
+
+jobs:
+  update_readme:
+    runs-on: ubuntu-latest
+    steps:
+      # Etapa 1: Fazer checkout do repositório
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      # Etapa 2: Obter o repositório mais recentemente modificado
+      - name: Get last modified repository
+        id: last_commit
+        run: |
+          # Pega o repositório mais modificado no último commit
+          LAST_REPO=$(git log --name-only --pretty=format: --since="1 day ago" | grep "^src" | head -n 1)
+          echo "Last modified repo: $LAST_REPO"
+          echo "::set-output name=last_repo::$LAST_REPO"
+
+      # Etapa 3: Atualizar README.md com o repositório mais recente
+      - name: Update README with last modified repository
+        run: |
+          # Substitua ou insira a informação no README
+          echo "Último projeto modificado: ${{ steps.last_commit.outputs.last_repo }}" >> README.md
+          
+          # Configurar o usuário do Git para o commit
+          git config --global user.email "youremail@example.com"
+          git config --global user.name "Your Name"
+          
+          # Commit e push da atualização no README
+          git commit -am "Update last modified repository in README"
+          git push

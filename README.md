@@ -1,6 +1,7 @@
 <!-- Banner animado (opcional) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Olá%2C+eu+sou+o+Eric!;Full+Stack+Web+Developer+apaixonado!;Transformando+ideias+em+soluções+digitais" alt="Typing SVG">
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Olá%2C+eu+sou+o+Eric!;Full+Stack+Web+Developer+apaixonado!;Transformando+ideias+em+soluções+digitais" alt="Typing SVG">
 </p>
 
 ## 👋 Sobre mim

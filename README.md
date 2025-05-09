@@ -57,7 +57,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eric-codecrypt&theme=radical&hide_border=true"/>
+  <a href="https://github.com/Eric-codecrypt">
+    <img src="https://img.shields.io/github/last-commit/Eric-codecrypt/ultimo-repositorio?style=for-the-badge&logo=github&logoColor=white" alt="Último commit"/>
+  </a>
 </p>
 
 <p align="center">

@@ -63,14 +63,14 @@
 
 -------------
 
-### Meu Ultimo Projeto: Projeto-de-vida
+## Meu Ultimo Projeto: Projeto-de-vida
 
 <p align="center">
   <a href="https://github.com/Eric-codecrypt">
     <img src="https://img.shields.io/github/last-commit/Eric-codecrypt/Projeto-de-vida?style=for-the-badge&logo=github&logoColor=white" alt="Último commit"/>
   </a>
 </p>
----
+
 
 ## 🎯 Metas para 2025
 

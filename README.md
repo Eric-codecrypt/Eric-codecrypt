@@ -61,7 +61,7 @@
 
 -------------
 
-## Meu Ultimo Projeto: nodo
+## Meu Ultimo Projeto: Nōdo
 
 <p align="flex-start">
   <a href="https://github.com/Eric-codecrypt">
